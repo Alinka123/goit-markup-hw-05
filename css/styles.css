@@ -547,6 +547,11 @@ padding: 0;
 .close-svg {
 
  }
+ .icon-sbscr {
+    fill: white;
+    
+    
+ }
  .modal-title {
 color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
